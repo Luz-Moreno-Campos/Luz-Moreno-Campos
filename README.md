@@ -9,3 +9,14 @@ With over 26 years of experience in language education and professional translat
 My teaching background includes designing tailored lessons and guiding learners of all ages as they prepare for international exams such as Cambridge FCE/CAE, TOEFL, IELTS, and DET. I also coach professionals for job interviews, presentations, and workplace communication, helping them strengthen clarity, confidence, and delivery in high stakes settings.
 
 Beyond education, I work with clients on translation projects in healthcare, marketing, finance, and information technology. I also have extensive experience in subtitling and audiovisual and literary translation, contributing to documentaries and scripts for companies such as Grey Worldwide and Warner Bros. My approach blends linguistic precision with a strong understanding of cultural and professional contexts, ensuring clear, accurate, and meaningful communication across industries.
+
+ ## 🎯 SKILLS
+
+- Organizational Leadership    
+- Problem-Solving   
+- Multitasking    
+- Self -motivation
+- Result-oriented
+- Teamwork
+- Time Management
+- Effective Communication
