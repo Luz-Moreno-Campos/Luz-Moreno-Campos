@@ -20,3 +20,7 @@ Beyond education, I work with clients on translation projects in healthcare, mar
 - Teamwork
 - Time Management
 - Effective Communication
+
+## 📊 Statistics
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luz-Moreno-Campos&theme=ambient-gradient)](https://git.io/streak-stats)
