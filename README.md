@@ -1,4 +1,4 @@
-![A book next to a computer](./assets/media/still-life-books-versus-technology.jpg)
+![Banner: book next to a computer](./assets/media/still-life-books-versus-technology.jpg)
 
 # Luz Moreno Campos
 
@@ -22,5 +22,9 @@ Beyond education, I work with clients on translation projects in healthcare, mar
 - Effective Communication
 
 ## 📊 Statistics
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Luz-Moreno-Campos&show_icons=true&theme=ambient-gradient)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luz-Moreno-Campos&layout=compact&theme=ambient-gradient)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Luz-Moreno-Campos&theme=ambient-gradient)](https://git.io/streak-stats)
