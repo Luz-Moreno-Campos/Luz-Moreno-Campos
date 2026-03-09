@@ -23,8 +23,8 @@ Beyond education, I work with clients on translation projects in healthcare, mar
 
 ## 📊 Statistics
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Luz-Moreno-Campos&show_icons=true&theme=ambient-gradient)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Luz-Moreno-Campos&show_icons=true&theme=synthwave)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luz-Moreno-Campos&layout=compact&theme=ambient-gradient)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luz-Moreno-Campos&layout=compact&theme=synthwave)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Luz-Moreno-Campos&theme=ambient-gradient)](https://git.io/streak-stats)
