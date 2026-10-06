@@ -8,9 +8,9 @@ I am a junior Full-Stack Developer with an extensive professional background in 
 
 Throughout my career, I have worked at the intersection of communication, analysis, and problem-solving. Today, I combine these skills with software development to create digital solutions that are not only functional, but also aligned with user needs and business goals.
 
-I believe effective communication is essential to the success of any organisation, and it deserves particular attention in the digital ecosystem. I have seen many organisations develop valuable products, services, and solutions, yet struggle to communicate their value clearly to users, clients, and stakeholders. And when communication falls short, even the most innovative ideas can fail to reach their full potential.
+I believe effective communication is essential to the success of any organisation, and it deserves particular attention in the digital ecosystem. I have seen many organisations develop valuable products, services, and solutions, yet struggle to communicate their value clearly to users, clients, and other stakeholders. And when communication falls short, even the most innovative ideas can fail to reach their full potential.
 
-My goal is to bridge the gap between technology and people by developing human-centered software  while ensuring its purpose, value, and impact are commuinicated in a clear and engaging way. I bring a unique combination of technical training, business insight, research expertise, and communication skills to every project, allowing me to connect digital solutions with the people who benefit from them.
+My goal is to bridge the gap between technology and people by developing human-centered software  while ensuring its purpose, value, and impact are commuinicated in a clear and engaging way. I bring a unique combination of technical training, business insight, research expertise, and communication skills to every project,  connecting digital solutions with the people who benefit from them.
 
  ## 🎯 SKILLS
 
