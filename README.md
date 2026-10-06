@@ -4,11 +4,13 @@
 
 ## ✨ About Me
 
-My professional journey started with studies in communication and early roles in advertising. That foundation expanded into a 26‑year career in professional translation, marketing research and language education. Today, as I pursue software development at MITT, I am channeling all my experience into creating digital tools that bridge communication, learning and technology.
+I am a junior Full-Stack Developer with an extensive professional background in marketing research, business management, language education, and translation.
 
-Over the years, I have worked  as a translator for  clients across a vast array of professional fields, ranging form health to  finance, history and filmmaking. My work includes subtitling, and the translation of audiovisual scripts and literary projects.  I laso have extensive experience in marketing research,  which has strengthened my understanding of audience behavior and communication across cultures.
+Throughout my career, I have worked at the intersection of communication, analysis, and problem-solving. Today, I combine these strengths with software development to create digital solutions that are not only functional, but also aligned with user needs and business goals.
 
-As an English teacher, I specialize in coaching professionals for job interviews, presentations, and workplace communication, helping them strengthen clarity, confidence, and delivery in high stakes settings. I also  design tailored lessons, and guide learners of all ages as they prepare for international exams such as Cambridge FCE/CAE, TOEFL, IELTS, and DET. 
+I believe effective communication is essential to the success of any organisation, and it deserves particular attention in the digital ecosystem. I have seen many organisations develop valuable products, services, and solutions, yet struggle to communicate their value clearly to users, clients, and stakeholders. And when communication falls short, even the most innovative ideas can fail to reach their full potential.
+
+My goal is to bridge the gap between technology and people by developing human-centered software  while ensuring its purpose, value, and impact are commuinicated in a clear and engaging way. I bring a unique combination of technical training, business insight, research expertise, and communication skills to every project, allowing me to connect digital solutions with the people who benefit from them.
 
  ## 🎯 SKILLS
 
