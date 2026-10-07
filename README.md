@@ -14,14 +14,13 @@ My goal is to bridge the gap between technology and people by developing human-c
 
  ## 🎯 SKILLS
 
-- Organizational Leadership    
-- Problem-Solving   
-- Multitasking    
-- Self -motivation
-- Result-oriented
-- Teamwork
-- Time Management
-- Effective Communication
+Technical Skills: C#, LINQ, JavaScript, ASP.NET MVC, React, HTML, CSS, Bootstrap, REST API
+Database & Architecture: SQL, SQL Server, SSMS, ER Modeling, Normalization, N-Tier Architecture
+
+Development Tools: Git, GitHub, Visual Studio, VS Code
+
+Professional Skills: problem solving, analytical thinking, requirement gathering technical documentation, team collaboration, stakeholder communication, tem leadership
+
 
 ## 📊 Statistics
 
