@@ -1,4 +1,4 @@
-![Banner: book next to a computer](./assets/media/geralt-network-4205698_1920.jpg)
+![Banner: book next to a computer](./assets/media/banner.jpg)
 
 # Luz Moreno Campos
 
