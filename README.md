@@ -14,12 +14,13 @@ My goal is to bridge the gap between technology and people by developing human-c
 
  ## 🎯 SKILLS
 
-Technical Skills: C#, LINQ, JavaScript, ASP.NET MVC, React, HTML, CSS, Bootstrap, REST API
-Database & Architecture: SQL, SQL Server, SSMS, ER Modeling, Normalization, N-Tier Architecture
+**Technical Skills:** C#, LINQ, JavaScript, ASP.NET MVC, React, HTML, CSS, Bootstrap, REST API.
 
-Development Tools: Git, GitHub, Visual Studio, VS Code
+**Database & Architecture:** SQL, SQL Server, SSMS, ER Modeling, Normalization, N-Tier Architecture.
 
-Professional Skills: problem solving, analytical thinking, requirement gathering technical documentation, team collaboration, stakeholder communication, tem leadership
+**Development Tools:** Git, GitHub, Visual Studio, VS Code.
+
+**Professional Skills:** Problem Solving, Analytical Thinking, Requirement Gathering, Technical Documentation, Team collaboration, Stakeholder communication, Team leadership.
 
 
 ## 📊 Statistics
