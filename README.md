@@ -1,4 +1,4 @@
-![Banner: book next to a computer](./assets/media/still-life-books-versus-technology.jpg)
+![Banner: book next to a computer](./assets/media/geralt-network-4205698_1920.jpg)
 
 # Luz Moreno Campos
 
