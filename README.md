@@ -4,7 +4,7 @@
 
 ## ✨ About Me
 
-I am a junior Full-Stack Developer with an extensive professional background in marketing research, business management, language education, and translation.
+I am a junior Full-Stack Developer with an extensive professional background in marketing research, business management, language education and translation.
 
 Throughout my career, I have worked at the intersection of communication, analysis, and problem-solving. Today, I combine these skills with software development to create digital solutions that are not only functional, but also aligned with user needs and business goals.
 
