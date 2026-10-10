@@ -10,15 +10,20 @@ Today, I leverage C#, JavaScript, React, ASP.NET MVC, and SQL Server to build fu
 
 I thrive in collaborative, cross-functional environments where clear communication, requirements gathering, and structured problem-solving drive product success. Whether developing clean code or facilitating alignment across teams, my goal is to create impactful digital tools that connect technology with the people who use it.
 
- ## 🎯 SKILLS
+ ## 🎯 PROFESSIONAL SKILLS
 
-**Technical Skills:** C#, LINQ, JavaScript, ASP.NET MVC, React, HTML, CSS, Bootstrap, REST API.
+ Cross-Functional Communication, Stakeholder Communication, Team Collaboration, Project Coordination, Problem-Solving, Analytical Thinking, Requirements Gathering, Technical Documentation
 
-**Database & Architecture:** SQL, SQL Server, SSMS, ER Modeling, Normalization, N-Tier Architecture.
+## 🛠️ TECH STACK & TOOLS
+ 
+**Languages & Frameworks:** C#, .NET, ASP.NET MVC, JavaScript, React, HTML5, CSS3, Bootstrap
+ 
+**Database & Architecture:** SQL, SQL Server, Entity Framework/LINQ, ER Modeling, Normalization, N-Tier Architecture, REST APIs
+ 
+**Development Tools:** Git, GitHub, Visual Studio, VS Code, SSMS
+ 
+**Productivity & Collaboration Tools:** Microsoft 365, Google Workspace, and remote collaboration tools.
 
-**Development Tools:** Git, GitHub, Visual Studio, VS Code.
-
-**Professional Skills:** Problem Solving, Analytical Thinking, Requirement Gathering, Technical Documentation, Team collaboration, Stakeholder communication, Team leadership.
 
 
 ## 📊 Statistics
