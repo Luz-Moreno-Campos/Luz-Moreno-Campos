@@ -4,7 +4,7 @@
 
 ## ✨ About Me
 
-I am a Junior Full-Stack Developer with a background in marketing research, business management, and translation, combining technical training with strong cross-functional collaboration and analytical problem-solving.
+I am a Junior Full-Stack Developer with a background in market research, business management, and translation, combining technical training with strong cross-functional collaboration and analytical problem-solving.
 
 Today, I leverage C#, JavaScript, React, ASP.NET MVC, and SQL Server to build functional, user-centered web applications. Having worked at the intersection of analysis, business needs, and technology, I bridge the gap between technical teams and non-technical stakeholders—ensuring software solutions align with user requirements and business goals.
 
